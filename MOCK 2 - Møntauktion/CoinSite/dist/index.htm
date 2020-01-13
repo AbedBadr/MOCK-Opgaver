@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Coin Auction</title>
+  <link rel="stylesheet" type="text/css" href="bundle.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/cerulean/bootstrap.min.css">
+</head>
+
+<body>
+  <div class="jumbotron text-center">
+    <h1>Coin Auction</h1>
+    <h4>Welcome to the coin auction, choose to show all coins or a specific coin</h4>
+  </div>
+
+  <div class="container text-center">
+    <div class="float-left">
+      <button class="btn btn-info">Show all coins</button>
+    </div>
+
+    <div class="float-right">
+      <div class="input-group mb-4">
+        <input type="text" class="form-control" placeholder="Input an id">
+        <div class="input-group-append">
+          <button class="btn btn-info" type="button">Show one coin</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="text-center">
+      <table class="table table-striped">
+        <thead id="thead">
+          <tr>
+            <th>Id</th>
+            <th>Genstand</th>
+            <th>Bud</th>
+            <th>Navn</th>
+          </tr>
+        </thead>
+        <tbody id="tbody">
+        </tbody>
+      </table>
+    </div>
+  </div>
+    
+  <script src="bundle.js"></script>
+</body>
+</html>
