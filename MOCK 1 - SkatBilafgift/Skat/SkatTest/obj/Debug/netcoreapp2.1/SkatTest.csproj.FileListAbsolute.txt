@@ -1,0 +1,17 @@
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\bin\Debug\netcoreapp2.1\SkatTest.deps.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\bin\Debug\netcoreapp2.1\SkatTest.runtimeconfig.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\bin\Debug\netcoreapp2.1\SkatTest.runtimeconfig.dev.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\bin\Debug\netcoreapp2.1\SkatTest.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\bin\Debug\netcoreapp2.1\SkatTest.pdb
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.csprojAssemblyReference.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.csproj.CoreCompileInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.AssemblyInfoInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.AssemblyInfo.cs
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.pdb
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\bin\Debug\netcoreapp2.1\Skat.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\bin\Debug\netcoreapp2.1\Skat.pdb
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.csproj.CopyComplete

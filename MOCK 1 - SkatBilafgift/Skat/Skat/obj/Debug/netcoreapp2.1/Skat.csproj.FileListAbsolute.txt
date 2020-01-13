@@ -1,0 +1,9 @@
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\Skat\bin\Debug\netcoreapp2.1\Skat.deps.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\Skat\bin\Debug\netcoreapp2.1\Skat.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\Skat\bin\Debug\netcoreapp2.1\Skat.pdb
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\Skat\obj\Debug\netcoreapp2.1\Skat.csprojAssemblyReference.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\Skat\obj\Debug\netcoreapp2.1\Skat.csproj.CoreCompileInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\Skat\obj\Debug\netcoreapp2.1\Skat.AssemblyInfoInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\Skat\obj\Debug\netcoreapp2.1\Skat.AssemblyInfo.cs
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\Skat\obj\Debug\netcoreapp2.1\Skat.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\Skat\Skat\obj\Debug\netcoreapp2.1\Skat.pdb

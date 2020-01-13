@@ -1,0 +1,14 @@
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\bin\Debug\netcoreapp2.1\TCPServerSkat.deps.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\bin\Debug\netcoreapp2.1\TCPServerSkat.runtimeconfig.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\bin\Debug\netcoreapp2.1\TCPServerSkat.runtimeconfig.dev.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\bin\Debug\netcoreapp2.1\TCPServerSkat.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\bin\Debug\netcoreapp2.1\TCPServerSkat.pdb
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\bin\Debug\netcoreapp2.1\Skat.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\bin\Debug\netcoreapp2.1\Skat.pdb
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\obj\Debug\netcoreapp2.1\TCPServerSkat.csprojAssemblyReference.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\obj\Debug\netcoreapp2.1\TCPServerSkat.csproj.CoreCompileInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\obj\Debug\netcoreapp2.1\TCPServerSkat.AssemblyInfoInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\obj\Debug\netcoreapp2.1\TCPServerSkat.AssemblyInfo.cs
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\obj\Debug\netcoreapp2.1\TCPServerSkat.csproj.CopyComplete
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\obj\Debug\netcoreapp2.1\TCPServerSkat.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPServerSkat\TCPServerSkat\obj\Debug\netcoreapp2.1\TCPServerSkat.pdb

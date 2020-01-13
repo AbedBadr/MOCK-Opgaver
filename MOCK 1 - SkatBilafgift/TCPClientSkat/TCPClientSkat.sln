@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClientSkat", "TCPClientSkat\TCPClientSkat.csproj", "{89F1F4E0-103D-4FE2-8DC7-7C6455FB9139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F1F4E0-103D-4FE2-8DC7-7C6455FB9139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F1F4E0-103D-4FE2-8DC7-7C6455FB9139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F1F4E0-103D-4FE2-8DC7-7C6455FB9139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F1F4E0-103D-4FE2-8DC7-7C6455FB9139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A639A6B-2D8C-449B-8696-B75B7F78AD9C}
+	EndGlobalSection
+EndGlobal

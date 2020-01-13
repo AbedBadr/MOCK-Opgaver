@@ -1,0 +1,11 @@
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPClientSkat\TCPClientSkat\bin\Debug\netcoreapp2.1\TCPClientSkat.deps.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPClientSkat\TCPClientSkat\bin\Debug\netcoreapp2.1\TCPClientSkat.runtimeconfig.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPClientSkat\TCPClientSkat\bin\Debug\netcoreapp2.1\TCPClientSkat.runtimeconfig.dev.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPClientSkat\TCPClientSkat\bin\Debug\netcoreapp2.1\TCPClientSkat.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPClientSkat\TCPClientSkat\bin\Debug\netcoreapp2.1\TCPClientSkat.pdb
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPClientSkat\TCPClientSkat\obj\Debug\netcoreapp2.1\TCPClientSkat.csprojAssemblyReference.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPClientSkat\TCPClientSkat\obj\Debug\netcoreapp2.1\TCPClientSkat.csproj.CoreCompileInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPClientSkat\TCPClientSkat\obj\Debug\netcoreapp2.1\TCPClientSkat.AssemblyInfoInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPClientSkat\TCPClientSkat\obj\Debug\netcoreapp2.1\TCPClientSkat.AssemblyInfo.cs
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPClientSkat\TCPClientSkat\obj\Debug\netcoreapp2.1\TCPClientSkat.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 1 - SkatBilafgift\TCPClientSkat\TCPClientSkat\obj\Debug\netcoreapp2.1\TCPClientSkat.pdb
