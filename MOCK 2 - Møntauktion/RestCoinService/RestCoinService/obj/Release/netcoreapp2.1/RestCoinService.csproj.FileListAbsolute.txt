@@ -1,0 +1,14 @@
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\bin\Release\netcoreapp2.1\RestCoinService.deps.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\bin\Release\netcoreapp2.1\RestCoinService.runtimeconfig.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\bin\Release\netcoreapp2.1\RestCoinService.runtimeconfig.dev.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\bin\Release\netcoreapp2.1\RestCoinService.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\bin\Release\netcoreapp2.1\RestCoinService.pdb
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\obj\Release\netcoreapp2.1\RestCoinService.csprojAssemblyReference.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\obj\Release\netcoreapp2.1\RestCoinService.csproj.CoreCompileInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\obj\Release\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\obj\Release\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cs
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\obj\Release\netcoreapp2.1\RestCoinService.AssemblyInfoInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\obj\Release\netcoreapp2.1\RestCoinService.AssemblyInfo.cs
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\obj\Release\netcoreapp2.1\RestCoinService.RazorTargetAssemblyInfo.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\obj\Release\netcoreapp2.1\RestCoinService.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\RestCoinService\obj\Release\netcoreapp2.1\RestCoinService.pdb
