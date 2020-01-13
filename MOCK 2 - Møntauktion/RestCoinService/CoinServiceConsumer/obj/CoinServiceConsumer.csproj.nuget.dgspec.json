@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\source\\Eksamen 3. semester\\Mock opgaver\\MOCK 2 - Møntauktion\\RestCoinService\\CoinServiceConsumer\\CoinServiceConsumer.csproj": {}
+  },
+  "projects": {
+    "D:\\source\\Eksamen 3. semester\\Mock opgaver\\MOCK 2 - Møntauktion\\RestCoinService\\CoinServiceConsumer\\CoinServiceConsumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\source\\Eksamen 3. semester\\Mock opgaver\\MOCK 2 - Møntauktion\\RestCoinService\\CoinServiceConsumer\\CoinServiceConsumer.csproj",
+        "projectName": "CoinServiceConsumer",
+        "projectPath": "D:\\source\\Eksamen 3. semester\\Mock opgaver\\MOCK 2 - Møntauktion\\RestCoinService\\CoinServiceConsumer\\CoinServiceConsumer.csproj",
+        "packagesPath": "C:\\Users\\abedb\\.nuget\\packages\\",
+        "outputPath": "D:\\source\\Eksamen 3. semester\\Mock opgaver\\MOCK 2 - Møntauktion\\RestCoinService\\CoinServiceConsumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abedb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
