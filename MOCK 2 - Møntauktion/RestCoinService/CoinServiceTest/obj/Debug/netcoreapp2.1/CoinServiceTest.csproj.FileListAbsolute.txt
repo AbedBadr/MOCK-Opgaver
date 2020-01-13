@@ -1,0 +1,17 @@
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\bin\Debug\netcoreapp2.1\CoinServiceTest.deps.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\bin\Debug\netcoreapp2.1\CoinServiceTest.runtimeconfig.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\bin\Debug\netcoreapp2.1\CoinServiceTest.runtimeconfig.dev.json
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\bin\Debug\netcoreapp2.1\CoinServiceTest.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\bin\Debug\netcoreapp2.1\RestCoinService.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\bin\Debug\netcoreapp2.1\RestCoinService.pdb
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\obj\Debug\netcoreapp2.1\CoinServiceTest.csprojAssemblyReference.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\obj\Debug\netcoreapp2.1\CoinServiceTest.csproj.CoreCompileInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\obj\Debug\netcoreapp2.1\CoinServiceTest.AssemblyInfoInputs.cache
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\obj\Debug\netcoreapp2.1\CoinServiceTest.AssemblyInfo.cs
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\obj\Debug\netcoreapp2.1\CoinServiceTest.csproj.CopyComplete
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\bin\Debug\netcoreapp2.1\CoinServiceTest.pdb
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\obj\Debug\netcoreapp2.1\CoinServiceTest.dll
+D:\source\Eksamen 3. semester\Mock opgaver\MOCK 2 - Møntauktion\RestCoinService\CoinServiceTest\obj\Debug\netcoreapp2.1\CoinServiceTest.pdb
