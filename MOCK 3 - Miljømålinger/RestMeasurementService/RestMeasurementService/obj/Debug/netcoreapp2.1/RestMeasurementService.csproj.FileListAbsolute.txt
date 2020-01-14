@@ -1,0 +1,14 @@
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\bin\Debug\netcoreapp2.1\RestMeasurementService.deps.json
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\bin\Debug\netcoreapp2.1\RestMeasurementService.runtimeconfig.json
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\bin\Debug\netcoreapp2.1\RestMeasurementService.runtimeconfig.dev.json
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\bin\Debug\netcoreapp2.1\RestMeasurementService.dll
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\obj\Debug\netcoreapp2.1\RestMeasurementService.csprojAssemblyReference.cache
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\obj\Debug\netcoreapp2.1\RestMeasurementService.csproj.CoreCompileInputs.cache
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\obj\Debug\netcoreapp2.1\RestMeasurementService.RazorAssemblyInfo.cache
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\obj\Debug\netcoreapp2.1\RestMeasurementService.RazorAssemblyInfo.cs
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\obj\Debug\netcoreapp2.1\RestMeasurementService.AssemblyInfoInputs.cache
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\obj\Debug\netcoreapp2.1\RestMeasurementService.AssemblyInfo.cs
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\obj\Debug\netcoreapp2.1\RestMeasurementService.RazorTargetAssemblyInfo.cache
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\bin\Debug\netcoreapp2.1\RestMeasurementService.pdb
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\obj\Debug\netcoreapp2.1\RestMeasurementService.dll
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\RestMeasurementService\obj\Debug\netcoreapp2.1\RestMeasurementService.pdb

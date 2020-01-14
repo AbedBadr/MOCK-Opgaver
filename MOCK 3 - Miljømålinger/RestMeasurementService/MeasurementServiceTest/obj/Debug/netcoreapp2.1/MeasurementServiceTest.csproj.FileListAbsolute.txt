@@ -1,0 +1,17 @@
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\obj\Debug\netcoreapp2.1\MeasurementServiceTest.csprojAssemblyReference.cache
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\obj\Debug\netcoreapp2.1\MeasurementServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\obj\Debug\netcoreapp2.1\MeasurementServiceTest.AssemblyInfoInputs.cache
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\obj\Debug\netcoreapp2.1\MeasurementServiceTest.AssemblyInfo.cs
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\bin\Debug\netcoreapp2.1\MeasurementServiceTest.deps.json
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\bin\Debug\netcoreapp2.1\MeasurementServiceTest.runtimeconfig.json
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\bin\Debug\netcoreapp2.1\MeasurementServiceTest.runtimeconfig.dev.json
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\bin\Debug\netcoreapp2.1\MeasurementServiceTest.dll
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\bin\Debug\netcoreapp2.1\MeasurementServiceTest.pdb
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\bin\Debug\netcoreapp2.1\RestMeasurementService.dll
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\bin\Debug\netcoreapp2.1\RestMeasurementService.pdb
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\obj\Debug\netcoreapp2.1\MeasurementServiceTest.csproj.CopyComplete
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\obj\Debug\netcoreapp2.1\MeasurementServiceTest.dll
+C:\Users\abedb\source\ExamTemplate\Mock opgaver\Mock 3 - Miljømålinger\RestMeasurementService\MeasurementServiceTest\obj\Debug\netcoreapp2.1\MeasurementServiceTest.pdb
